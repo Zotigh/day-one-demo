@@ -323,10 +323,10 @@
               </children>
             </children>
           </children>
-          <windows xsi:type="basic:TrimmedWindow" xmi:id="_t-bL-heWEempk_xkoTveoQ" selectedElement="_t-bL-xeWEempk_xkoTveoQ" x="10" y="1068" width="166" height="47">
-            <children xsi:type="basic:PartStack" xmi:id="_t-bL-xeWEempk_xkoTveoQ" elementId="PartStack@419ae488" selectedElement="_t-bL_BeWEempk_xkoTveoQ">
+          <windows xsi:type="basic:TrimmedWindow" xmi:id="_t-bL-heWEempk_xkoTveoQ" toBeRendered="false" x="10" y="1068" width="166" height="47">
+            <children xsi:type="basic:PartStack" xmi:id="_t-bL-xeWEempk_xkoTveoQ" elementId="PartStack@419ae488" toBeRendered="false">
               <tags>active</tags>
-              <children xsi:type="advanced:Placeholder" xmi:id="_t-bL_BeWEempk_xkoTveoQ" elementId="org.eclipse.egit.ui.RepositoriesView" ref="_t-bNbheWEempk_xkoTveoQ" closeable="true">
+              <children xsi:type="advanced:Placeholder" xmi:id="_t-bL_BeWEempk_xkoTveoQ" elementId="org.eclipse.egit.ui.RepositoriesView" toBeRendered="false" ref="_t-bNbheWEempk_xkoTveoQ" closeable="true">
                 <tags>View</tags>
                 <tags>categoryTag:Git</tags>
                 <tags>activeOnClose</tags>
@@ -547,7 +547,6 @@
       <tags>View</tags>
       <tags>categoryTag:Git</tags>
       <tags>active</tags>
-      <tags>activeOnClose</tags>
       <menus xmi:id="_t-bNbxeWEempk_xkoTveoQ" elementId="org.eclipse.egit.ui.RepositoriesView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -625,7 +624,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_t-bNnBeWEempk_xkoTveoQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_UrmEEBgvEemE3phRW4W1sQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_t-lDYheWEempk_xkoTveoQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_69mXsBg1EemAxNspXgHbyw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_t-lDYheWEempk_xkoTveoQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_t-bNqReWEempk_xkoTveoQ" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -669,7 +668,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_t-bN_heWEempk_xkoTveoQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_UrvOCBgvEemE3phRW4W1sQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_t-lDBReWEempk_xkoTveoQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_69qpLBg1EemAxNspXgHbyw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_t-lDBReWEempk_xkoTveoQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_t-bOCBeWEempk_xkoTveoQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
