@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="RepositorySelectionPage.UsedUris">
+		<item value="git@github.com:Zotigh/test-ssh.git"/>
 		<item value="git@github.com:Zotigh/test.git"/>
 		<item value="Zotigh@github.com:Zotigh/test.git"/>
 		<item value="https://github.com/Zotigh/LZ.git"/>
@@ -13,4 +14,9 @@
 		<item value="git.eclipse.org"/>
 		<item value="github.com"/>
 	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="200,200" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="200,200" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
 </section>
